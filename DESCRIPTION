@@ -1,12 +1,11 @@
 Package: deva.ai
-Title: What the Package Does (One Line, Title Case)
+Title: Virginia Environmental Inequality Calculator
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Jonathan", "Ogebe", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+Description: This package uses a combination of US Census data and NEI data from the US EPA to calculate environmental inequity across racial/ethnic groups in the state of Virginia from 2011 to 2020. The environmental inequity measures used are the Atkinson Index and the Gini coefficient.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
