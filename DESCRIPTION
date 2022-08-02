@@ -19,3 +19,5 @@ Imports:
     sf,
     stringr,
     tidycensus
+URL: https://github.com/jogebe/deva.ai
+BugReports: https://github.com/jogebe/deva.ai/issues
